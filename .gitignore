@@ -1,0 +1,11 @@
+.env
+data/
+runs/
+logs/
+*.pt
+*.onnx
+__pycache__/
+.venv/
+.dvc/cache/
+mlruns/
+prefect-data/
